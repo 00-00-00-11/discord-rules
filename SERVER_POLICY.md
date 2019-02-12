@@ -32,6 +32,7 @@ General server rules are outlined below. Please consider that rules are non-exha
     * Sending multiple consecutive messages where a single message is more applicable.
     * Posting an unreasonable amount of images, links or videos in a small amount of time.
     * Using a large quantity of emojis compared to actual text.
+    * Posting messages containing unreasonable or disruptive amounts of text.
 
 5. Listen to the Staff and do not question their actions. This includes but not limited to:
     * Commenting about a Staff action (not neccesarrily involving you).
@@ -45,7 +46,7 @@ If you believe a Staff member has issued an improper action, please contact the 
     * Using bots where not applicable.
     * Using bots to spam or send repeated large messages.
 
-7. Do not trick users into breaking the rules.
+7. Do not trick fellow members into breaking the rules.
 
 8. Do not "mini-mod" or take problems into your own hands. This includes demanding actions from fellow members. As a member, it is not your job to instruct or enforce the server rules, it is the Staff's.
 
