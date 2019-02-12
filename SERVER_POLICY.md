@@ -46,11 +46,13 @@ If you believe a Staff member has issued an improper action, please contact the 
     * Using bots where not applicable.
     * Using bots to spam or send repeated large messages.
 
-7. Do not trick fellow members into breaking the rules.
+7. Do not post content containing NSFW (not safe for work) or sexually suggestive images (except in designated areas, if any).
 
-8. Do not "mini-mod" or take problems into your own hands. This includes demanding actions from fellow members. As a member, it is not your job to instruct or enforce the server rules, it is the Staff's.
+8. Do not trick fellow members into breaking the rules.
 
-9. Do not take advatange of loopholes in the rules.
+9. Do not "mini-mod" or take problems into your own hands. This includes demanding actions from fellow members. As a member, it is not your job to instruct or enforce the server rules, it is the Staff's.
+
+10. Do not take advatange of loopholes in the rules.
 
 **Please Do**
 
